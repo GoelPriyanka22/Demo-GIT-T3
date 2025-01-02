@@ -7,7 +7,7 @@ void sum()
 
 
 
-void diff()
+void MUL()
 {
 
 
